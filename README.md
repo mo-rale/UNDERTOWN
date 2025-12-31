@@ -1,4 +1,4 @@
-# 🧟‍♂️ UNDERTOWN (Godot Engine)
+# UNDERTOWN (Godot Engine)
 ![Version](https://img.shields.io/badge/version-1.2.0-blue)
 
 ---
@@ -9,7 +9,7 @@ This project is still **in development**, with new weapons and features being ad
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - **Objective:** Survive wave after wave of zombies.  
 - **Enemies:** Zombies become faster and tougher with each wave.  
@@ -23,9 +23,9 @@ This project is still **in development**, with new weapons and features being ad
 
 ---
 
-## 🧰 Features
+## Features
 
-### ✅ Implemented
+### Implemented
 - Wave-based zombie spawning system  
 - Player movement and shooting mechanics  
 - Health and damage system  
@@ -37,7 +37,7 @@ This project is still **in development**, with new weapons and features being ad
 - Minor Animations
 - 3 enemy Types  
 
-### 🛠️ In Development
+### In Development
 - New weapon types (shotguns, rifles, explosives, etc.)  
 - Power-ups and upgrades  
 - Improved enemy AI and animations
@@ -48,7 +48,7 @@ This project is still **in development**, with new weapons and features being ad
 
 ---
 
-## 🚀 How to Run in Godot
+## How to Run in Godot
 
 ### Prerequisites
 - **Godot Engine 4.x** installed on your computer
@@ -90,7 +90,7 @@ zombie-shooter/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="assets/Screenshot1.png" alt="Gameplay Screenshot" width="45%">
@@ -98,7 +98,7 @@ zombie-shooter/
 
 ---
 
-## 🛠️ Adding This Project to Your Godot Project
+## Adding This Project to Your Godot Project
 
 ### Method 1: Manual Integration (Recommended for learning)
 
@@ -150,7 +150,7 @@ If you want to use this as a reusable module:
 
 ---
 
-## 🎯 Quick Start Template
+## Quick Start Template
 
 If you want to start from scratch but use similar mechanics:
 
@@ -188,7 +188,7 @@ func _physics_process(delta):
 
 ---
 
-## 🧑‍💻 Contributing
+## Contributing
 
 Contributions are welcome!
 If you'd like to suggest a feature or fix a bug:
@@ -202,19 +202,19 @@ Bug reports and ideas are also welcome in the **Issues** section!
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 📧 [personal email](crapeling29@gmai.com)
     [university email](ahron.badili@bisu.edu.ph)
 🐙 [GitHub Profile](https://github.com/mo-rale)
 
 ---
 
-> 🎯 *Made with passion for zombie games — still under heavy development! Stay tuned for more updates.*
+> *Made with passion for zombie games — still under heavy development! Stay tuned for more updates.*
 
 
